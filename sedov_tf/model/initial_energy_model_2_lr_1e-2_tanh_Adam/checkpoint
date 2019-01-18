@@ -1,0 +1,2 @@
+model_checkpoint_path: "initial_energy_model_2_lr_1e-2_tanh_Adam.ckpt"
+all_model_checkpoint_paths: "initial_energy_model_2_lr_1e-2_tanh_Adam.ckpt"
